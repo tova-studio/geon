@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T04:14:41.029Z",
+  "slug": "geongroup",
+  "name": "Geon",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Printers & copy shops",
+    "niche": "printers & copy shops",
+    "group": "Other services"
+  },
+  "contact": {
+    "phone": "03 384 2903",
+    "address": "6 Mary Muller Drive, Christchurch"
+  },
+  "social": {},
+  "about": {
+    "overview": "This domain has a pending ICANN verification and is suspended.",
+    "tagline": "Action Required: Complete Your Email Verification",
+    "services": [
+      "Why This Verification Is Required",
+      "General Legal Requirements",
+      "Why Has This Domain Been Suspended?",
+      "Frequently Asked Questions",
+      "Next Steps",
+      "Need Help?"
+    ]
+  },
+  "before": {
+    "url": "http://www.geongroup.com",
+    "domain": "geongroup.com",
+    "finalUrl": "http://www.geongroup.com/",
+    "title": "Contact Verification Suspension Page",
+    "pages": 2,
+    "score": 41,
+    "assessedAt": "2026-11-19T13:28:25.435Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.geongroup.com/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/geon/",
+    "repoUrl": "https://github.com/tova-studio/geon",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T04:14:41.029Z"
+  }
+}
